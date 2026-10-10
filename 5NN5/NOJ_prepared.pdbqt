@@ -1,0 +1,36 @@
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  O2_3 
+REMARK    2  A    between atoms: C3_5  and  O3_6 
+REMARK    3  A    between atoms: C4_8  and  O4_9 
+REMARK    4  A    between atoms: C5_11  and  C6_14 
+REMARK    5  A    between atoms: C6_14  and  O6_15 
+ROOT
+HETATM    1  C1  NOJ A1016     -13.551 -32.649  95.021  1.00 13.21     0.148 C 
+HETATM    2  C2  NOJ A1016     -12.414 -31.706  95.428  1.00 13.56     0.166 C 
+HETATM    3  C3  NOJ A1016     -12.334 -31.583  96.953  1.00 12.49     0.179 C 
+HETATM    4  C4  NOJ A1016     -13.653 -31.054  97.496  1.00 12.37     0.173 C 
+HETATM    5  C5  NOJ A1016     -14.819 -31.940  97.076  1.00 12.62     0.131 C 
+HETATM    6  N5  NOJ A1016     -14.761 -32.169  95.643  1.00 13.27    -0.410 N 
+ATOM      7  H5  NOJ A1016     -15.585 -31.988  95.070  1.00  0.00     0.153 HD
+ENDROOT
+BRANCH   5   8
+HETATM    8  C6  NOJ A1016     -16.179 -31.359  97.474  1.00 12.85     0.191 C 
+BRANCH   8   9
+HETATM    9  O6  NOJ A1016     -16.377 -30.075  96.879  1.00 11.28    -0.399 OA
+ATOM     10  H6  NOJ A1016     -17.221 -29.715  97.126  1.00  0.00     0.209 HD
+ENDBRANCH   8   9
+ENDBRANCH   5   8
+BRANCH   4  11
+HETATM   11  O4  NOJ A1016     -13.583 -30.978  98.919  1.00 11.42    -0.391 OA
+ATOM     12  H4  NOJ A1016     -14.407 -30.648  99.258  1.00  0.00     0.210 HD
+ENDBRANCH   4  11
+BRANCH   3  13
+HETATM   13  O3  NOJ A1016     -11.275 -30.677  97.300  1.00 11.62    -0.390 OA
+ATOM     14  H3  NOJ A1016     -11.225 -30.601  98.246  1.00  0.00     0.210 HD
+ENDBRANCH   3  13
+BRANCH   2  15
+HETATM   15  O2  NOJ A1016     -11.211 -32.234  94.889  1.00 13.04    -0.391 OA
+ATOM     16  H2  NOJ A1016     -10.506 -31.649  95.141  1.00  0.00     0.210 HD
+ENDBRANCH   2  15
+TORSDOF 5

@@ -1,0 +1,10 @@
+receptor = C:\Docking_Validation\5NN5\02_Receptor\5NN5_receptor_A_prepared.pdbqt
+ligand = C:\Docking_Validation\5NN5\03_Ligand\NOJ_prepared.pdbqt
+center_x = -13.651
+center_y = -31.493
+center_z = 96.643
+size_x = 20
+size_y = 20
+size_z = 20
+exhaustiveness = 16
+num_modes = 9
