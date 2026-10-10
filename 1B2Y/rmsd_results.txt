@@ -1,0 +1,8 @@
+1. Input file: reference_for_rmsd.sdf
+
+2. Input file: docked_for_rmsd.sdf
+
+Result (Å)
+[1] RMSD: 0.653
+
+Carbone, Jacopo, Alessia Ghidini, Antonio Romano, Luca Gentilucci, and Francesco Musiani. 2022. "PacDOCK: A Web Server for Positional Distance-Based and Interaction-Based Analysis of Docking Results" Molecules 27, no. 20: 6884. https://doi.org/10.3390/molecules27206884
