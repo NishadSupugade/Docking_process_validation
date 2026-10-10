@@ -20,7 +20,7 @@ The purpose is to document the workflow, preserve the input and output files, an
 | Protein PDB ID | Ligand | Best recorded affinity | Reported RMSD | Documentation |
 |---|---|---:|---:|---|
 | 1B2Y | Reference ligand used in the validation | -9.627 kcal/mol | 0.653 Å | [1B2Y validation](1B2Y/README.md) |
-| 5NN5 | NOJ | Refer to `Docking_result.txt` | 0.059 Å | [5NN5 validation](5NN5/README.md) |
+| 5NN5 | NOJ | -5.772 kcal/mol | 0.059 Å | [5NN5 validation](5NN5/README.md) |
 
 **Note:** RMSD values are reported from the respective validation calculations. Their interpretation depends on the reference structure, atom correspondence, and calculation method. Vina's pose-to-pose RMSD values are not equivalent to crystallographic redocking RMSD.
 
