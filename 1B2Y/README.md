@@ -102,7 +102,20 @@ For subsequent docking studies, confirm receptor preparation, ligand preparation
 
 ## 9. Structure source
 
-RCSB Protein Data Bank: https://www.rcsb.org/structure/1B2Y
+1B2Y
+Nahoum, V., Roux, G., Anton, V., Rougé, P., Puigserver, A., Bischoff, H., Henrissat, B., & Payan, F. (2000). Crystal structures of human pancreatic alpha-amylase in complex with carbohydrate and proteinaceous inhibitors. The Biochemical Journal, 346 Pt 1(Pt 1), 201–208.
 
-Please cite the original structure and the relevant software when using these files in reports, publications, or further research.
+Bank, R. P. D. (n.d.). Rcsb pdb. Retrieved October 10, 2026, from https://www.rcsb.org/search?q=rcsb_pubmed_container_identifiers.pubmed_id:10657258
 
+
+PyMOL
+Schrödinger, LLC. The PyMOL Molecular Graphics System, Version 3.0. 
+
+Autodock Vina
+Trott, O., & Olson, A. J. (2010). AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading. Journal of Computational Chemistry, 31(2), 455–461. doi.orgIn-text citation: (Trott & Olson, 2010) 
+
+Autodock tools
+Morris, G. M., Huey, R., Lindstrom, W., Sanner, M. F., Belew, R. K., Goodsell, D. S., & Olson, A. J. (2009). AutoDock4 and AutoDockTools4: Automated docking with selective receptor flexibility. Journal of Computational Chemistry, 30(16), 2785–2791. doi.orgIn-text citation: (Morris et al., 2009) 
+
+PacDOCK Server
+Carbone, J., Ghidini, A., Romano, A., Gentilucci, L., & Musiani, F. (2022). Pacdock: A web server for positional distance-based and interaction-based analysis of docking results. Molecules, 27(20), 6884. https://doi.org/10.3390/molecules27206884
