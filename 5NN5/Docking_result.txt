@@ -1,5 +1,4 @@
-C:\Docking_Validation\5NN5>"C:\Users\Nishad\Downloads\vina_1.2.7_win.exe" --config "C:\Docking_Validation\5NN5\04_Redocking\config.txt" --out "C:\Docking_Validation\5NN5\04_Redocking\NOJ_redocked.pdbqt"
-AutoDock Vina v1.2.7
+
 #################################################################
 # If you used AutoDock Vina in your work, please cite:          #
 #                                                               #
