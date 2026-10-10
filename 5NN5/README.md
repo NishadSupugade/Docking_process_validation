@@ -86,4 +86,27 @@ Reproducibility depends on retaining the prepared structures, original grid sett
 
 ## 9. Citation
 
+5NN5
+
+Roig-Zamboni, V., Cobucci-Ponzano, B., Iacono, R., Ferrara, M. C., Germany, S., Bourne, Y., Parenti, G., Moracci, M., & Sulzenbacher, G. (2017). Structure of human lysosomal acid α-glucosidase-a guide for the treatment of Pompe disease. Nature Communications, 8(1), 1111. https://doi.org/10.1038/s41467-017-01263-3
+
+1-DEOXYNOJIRIMYCIN
+
+PubChem. (n.d.). 1860-5397-17-12-LXBIFEVIBLOUGU-JGWLITMVSA-N. Retrieved October 10, 2026, from https://pubchem.ncbi.nlm.nih.gov/substance/528401442
+
+PyMOL
+
+Schrödinger, LLC. The PyMOL Molecular Graphics System, Version 3.0. 
+
+Autodock Vina
+
+Trott, O., & Olson, A. J. (2010). AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading. Journal of Computational Chemistry, 31(2), 455–461. doi.orgIn-text citation: (Trott & Olson, 2010) 
+
+Autodock tools
+
+Morris, G. M., Huey, R., Lindstrom, W., Sanner, M. F., Belew, R. K., Goodsell, D. S., & Olson, A. J. (2009). AutoDock4 and AutoDockTools4: Automated docking with selective receptor flexibility. Journal of Computational Chemistry, 30(16), 2785–2791. doi.orgIn-text citation: (Morris et al., 2009) 
+
+PacDOCK Server
+
+Carbone, J., Ghidini, A., Romano, A., Gentilucci, L., & Musiani, F. (2022). Pacdock: A web server for positional distance-based and interaction-based analysis of docking results. Molecules, 27(20), 6884. https://doi.org/10.3390/molecules27206884
 
